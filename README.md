@@ -26,7 +26,7 @@ To run this project locally on your machine, follow these steps:
 **Step 1: Clone the repository**
 
 ```bash
-git clone [https://github.com/YourUsername/WealthArc.git](https://github.com/YourUsername/WealthArc.git)
+git clone [https://github.com/nayan-sharma-codes/WealthArc.git](https://github.com/nayan-sharma-codes/WealthArc.git)
 ```
 
 **Step 2: Navigate and install dependencies**
